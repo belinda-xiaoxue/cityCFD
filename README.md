@@ -23,7 +23,7 @@ Five packages are included. Each package includes a source code file (C function
 >>***3D***:     3D quasi-steady UHIC simulation<br>
 >>***3DPor***:  3D quasi-steady UHIC in which the city is treated as porous medium
 
-To use one package, one may download it and load the journal file. One may want to change the mesh file if needed. The C functions are called from journal files.  
+To use one package, you may download it and load the journal file. You may want to change the mesh file if needed. The C functions are called from journal files.  
 
 Citation
 ===
