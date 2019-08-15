@@ -17,7 +17,7 @@ Usage
 ANSYS FLUENT 14.0 is used for running these models.
 
 Five packages are included. Each package includes a source code file (C function that can be either interpreted or compiled in ANSYS FLUENT) "\*.c", a journal file (a simple text file containing Fluent Text User Interface (TUI) commands) "\*.jou" and a mesh file "\*.msh". Details of these packages are:<br>
-     >>2D: 2D quasi-steady urban heat island circulation (UHIC) simulation<br>
+>>2D: 2D quasi-steady urban heat island circulation (UHIC) simulation<br>
      >>2DPor: 2D quasi-steady UHIC in which the city is treated as porous medium<br>
      >>2D12hr: 2D UHIC evolution including the city effect<br>
      >>3D: 3D quasi-steady UHIC simulation<br>
