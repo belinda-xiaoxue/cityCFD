@@ -3,13 +3,13 @@ City-scale CFD
 This repository contains several packages of our CFD model implementations used in a few recent papers.
 
 These models can be used to simulate the city-scale thermal and wind environment in very fine resolution, such as urban heat island circulation (UHIC) simulation, including both the quasi-steady UHIC and UHIC evaluation, which is an important problem in urban envirionment study. Some key features in these models are:
->>***Governing equations based on new coordinate.***<br>
+>>***Governing equations based on new coordinate***<br>
 The governing equations (including the momentum equation, energy equation and turbulence equations) are obtained with KRB coordinate transformation. This can be implemented by DEFINE_SOURCE macro.<br>
->>***Absorbing layer.***<br>
+>>***Absorbing layer***<br>
 An absorbing layer is added below the top boundary to avoid the effect of spurious waves.<br>
->>***Mixed porous approach.***<br>
+>>***Mixed porous approach***<br>
 The city area is treated as porous medium.<br>
->>***Daily cycle temperature boundary condition.***<br>
+>>***Daily cycle temperature boundary condition***<br>
 An analytical surface temperature formula was derived and implemented in these models after simplifying longwave radiation and sensible heat flux terms.
 
 Usage
