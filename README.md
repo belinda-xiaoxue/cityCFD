@@ -28,8 +28,11 @@ To use one package, one may download it and load the journal file. One may want 
 Citation
 ===
 If you make use of these codes, please cite relevant publications from the following:
-[1] Wang, X., & Li, Y. (2016). Predicting urban heat island circulation using CFD. Building and Environment, 99, 82-97.
+
+[1] Wang, X., & Li, Y. (2016). Predicting urban heat island circulation using CFD. Building and Environment, 99, 82-97
+
 [2] Wang, X., Li, Y., & Hang, J. (2017). A combined fully-resolved and porous approach for building cluster wind flows. Building Simulation, 10(1), 97-109
+
 [3] Wang X., Li Y., Wang K., Chan PW. and Yang X. (2017), A simple daily cycle temperature boundary condition for ground surfaces in CFD predictions of urban wind flows, Journal of Applied Meteorology and Climatology, 56(11), 2963-2980.
 
 Copyright
