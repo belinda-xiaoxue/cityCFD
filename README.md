@@ -1,4 +1,4 @@
-City-Scale CFD
+City-scale CFD
 ===
 This repository contains several packages of our CFD model implementations used in a few recent papers.
 
